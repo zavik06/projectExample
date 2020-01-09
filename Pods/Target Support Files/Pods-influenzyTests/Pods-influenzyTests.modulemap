@@ -1,0 +1,6 @@
+framework module Pods_influenzyTests {
+  umbrella header "Pods-influenzyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

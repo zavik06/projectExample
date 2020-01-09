@@ -1,0 +1,708 @@
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "0Gz-af-5vy"; */
+"0Gz-af-5vy.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "ENDS"; ObjectID = "0IA-w6-6r1"; */
+"0IA-w6-6r1.text" = "ENDS";
+
+/* Class = "UILabel"; text = "INSTRUCTIONS"; ObjectID = "0oY-GG-Kqi"; */
+"0oY-GG-Kqi.text" = "INSTRUCTIONS";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "10J-xE-6fR"; */
+"10J-xE-6fR.normalTitle" = "Reject";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "1Tr-eN-Ox3"; */
+"1Tr-eN-Ox3.text" = "ADDRESS";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "1al-wr-RaF"; */
+"1al-wr-RaF.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "1kB-3t-qKG"; */
+"1kB-3t-qKG.text" = "20";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "1kQ-bt-c8P"; */
+"1kQ-bt-c8P.text" = "Password";
+
+/* Class = "UILabel"; text = "Current password"; ObjectID = "26v-YB-WP3"; */
+"26v-YB-WP3.text" = "Current password";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "2bJ-HV-W9t"; */
+"2bJ-HV-W9t.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UINavigationItem"; title = "My wallet"; ObjectID = "2bQ-Dc-wVk"; */
+"2bQ-Dc-wVk.title" = "My wallet";
+
+/* Class = "UILabel"; text = "Cardholder's name"; ObjectID = "2f5-26-5n5"; */
+"2f5-26-5n5.text" = "Cardholder's name";
+
+/* Class = "UILabel"; text = "Local"; ObjectID = "2yx-PD-F0g"; */
+"2yx-PD-F0g.text" = "Local";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "3Kx-CV-moT"; */
+"3Kx-CV-moT.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Password again"; ObjectID = "3Mh-te-ZRs"; */
+"3Mh-te-ZRs.placeholder" = "Password again";
+
+/* Class = "UILabel"; text = "Beauty & Fashion"; ObjectID = "3cd-nY-cPH"; */
+"3cd-nY-cPH.text" = "Beauty & Fashion";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "47b-Mc-dEq"; */
+"47b-Mc-dEq.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "4QK-Tv-PUh"; */
+"4QK-Tv-PUh.placeholder" = "Phone number";
+
+/* Class = "UITextField"; placeholder = "Card number"; ObjectID = "4p3-eK-ltu"; */
+"4p3-eK-ltu.placeholder" = "Card number";
+
+/* Class = "UIBarButtonItem"; title = "  "; ObjectID = "4rD-cU-Qn2"; */
+"4rD-cU-Qn2.title" = "  ";
+
+/* Class = "UILabel"; text = "About me"; ObjectID = "4vb-U5-UTS"; */
+"4vb-U5-UTS.text" = "About me";
+
+/* Class = "UILabel"; text = "1234 5678 9012 3456"; ObjectID = "4yk-c7-Yxs"; */
+"4yk-c7-Yxs.text" = "1234 5678 9012 3456";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "57c-vg-FyA"; */
+"57c-vg-FyA.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "5gm-Ku-3ic"; */
+"5gm-Ku-3ic.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "6Aq-ZL-PVj"; */
+"6Aq-ZL-PVj.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "6Rw-W9-y5m"; */
+"6Rw-W9-y5m.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Close account"; ObjectID = "6jR-Up-rhn"; */
+"6jR-Up-rhn.normalTitle" = "Close account";
+
+/* Class = "UILabel"; text = "Let's start"; ObjectID = "735-Gm-tnZ"; */
+"735-Gm-tnZ.text" = "Let's start";
+
+/* Class = "UINavigationItem"; title = "Notifications"; ObjectID = "7Dy-zG-IY8"; */
+"7Dy-zG-IY8.title" = "Notifications";
+
+/* Class = "UILabel"; text = "BANK NAME"; ObjectID = "8KL-1U-mG9"; */
+"8KL-1U-mG9.text" = "BANK NAME";
+
+/* Class = "UILabel"; text = "Invited"; ObjectID = "8u8-6e-o4H"; */
+"8u8-6e-o4H.text" = "Invited";
+
+/* Class = "UILabel"; text = "Global influencer"; ObjectID = "8uO-RO-UnG"; */
+"8uO-RO-UnG.text" = "Global influencer";
+
+/* Class = "UILabel"; text = "Pinterest"; ObjectID = "992-ff-zH0"; */
+"992-ff-zH0.text" = "Pinterest";
+
+/* Class = "UILabel"; text = "STARTS"; ObjectID = "9Cl-lR-i43"; */
+"9Cl-lR-i43.text" = "STARTS";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "9Ul-Tf-5qn"; */
+"9Ul-Tf-5qn.text" = "20";
+
+/* Class = "UITextField"; placeholder = "Pinterest"; ObjectID = "9rk-lh-MCT"; */
+"9rk-lh-MCT.placeholder" = "Pinterest";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Aa3-Yp-Cld"; */
+"Aa3-Yp-Cld.normalTitle" = "Cancel";
+
+/* Class = "UIBarButtonItem"; title = "  "; ObjectID = "AwT-JE-gHB"; */
+"AwT-JE-gHB.title" = "  ";
+
+/* Class = "UILabel"; text = "account, you can't change an existing account"; ObjectID = "B17-FY-ccs"; */
+"B17-FY-ccs.text" = "account, you can't change an existing account";
+
+/* Class = "UILabel"; text = "code."; ObjectID = "BL6-Qp-ZE0"; */
+"BL6-Qp-ZE0.text" = "code.";
+
+/* Class = "UINavigationItem"; title = "Campaings"; ObjectID = "BMC-q0-g1o"; */
+"BMC-q0-g1o.title" = "Campaings";
+
+/* Class = "UIButton"; normalTitle = "Password"; ObjectID = "Brl-Dz-9W5"; */
+"Brl-Dz-9W5.normalTitle" = "Password";
+
+/* Class = "UITextField"; placeholder = "New password again"; ObjectID = "Bzh-O3-hqe"; */
+"Bzh-O3-hqe.placeholder" = "New password again";
+
+/* Class = "UITextField"; placeholder = "Twitch"; ObjectID = "C7y-zK-mZ6"; */
+"C7y-zK-mZ6.placeholder" = "Twitch";
+
+/* Class = "UILabel"; text = "Define your"; ObjectID = "CAp-S1-kly"; */
+"CAp-S1-kly.text" = "Define your";
+
+/* Class = "UILabel"; text = "Twitter"; ObjectID = "CDM-1c-aQi"; */
+"CDM-1c-aQi.text" = "Twitter";
+
+/* Class = "UITextField"; placeholder = "Youtube"; ObjectID = "CKB-3T-CM0"; */
+"CKB-3T-CM0.placeholder" = "Youtube";
+
+/* Class = "UILabel"; text = "Connect your\n"; ObjectID = "CZz-hm-CR0"; */
+"CZz-hm-CR0.text" = "Connect your\n";
+
+/* Class = "UITextField"; placeholder = "YYYY"; ObjectID = "CaB-5c-Veq"; */
+"CaB-5c-Veq.placeholder" = "YYYY";
+
+/* Class = "UILabel"; text = "CAMPAIGN TYPE"; ObjectID = "CiD-Wq-y2g"; */
+"CiD-Wq-y2g.text" = "CAMPAIGN TYPE";
+
+/* Class = "UILabel"; text = "Select the interests that best match your profile."; ObjectID = "CiS-OU-bgT"; */
+"CiS-OU-bgT.text" = "Select the interests that best match your profile.";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "CzY-49-uqm"; */
+"CzY-49-uqm.text" = "Facebook";
+
+/* Class = "UILabel"; text = ""; ObjectID = "D1p-2k-aYi"; */
+"D1p-2k-aYi.text" = "";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "DJz-8M-yKt"; */
+"DJz-8M-yKt.text" = "3";
+
+/* Class = "UILabel"; text = "Local influencer"; ObjectID = "DTp-XW-8Nf"; */
+"DTp-XW-8Nf.text" = "Local influencer";
+
+/* Class = "UILabel"; text = "elit, sed diam nonummy nibh."; ObjectID = "DZM-RM-cq5"; */
+"DZM-RM-cq5.text" = "elit, sed diam nonummy nibh.";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Dlb-eR-B33"; */
+"Dlb-eR-B33.title" = "Item";
+
+/* Class = "UILabel"; text = "Enim porta "; ObjectID = "Dts-dQ-XfB"; */
+"Dts-dQ-XfB.text" = "Enim porta ";
+
+/* Class = "UILabel"; text = "New password"; ObjectID = "E2v-ji-db2"; */
+"E2v-ji-db2.text" = "New password";
+
+/* Class = "UINavigationItem"; title = "My social media accounts"; ObjectID = "E4X-R5-0TR"; */
+"E4X-R5-0TR.title" = "My social media accounts";
+
+/* Class = "UILabel"; text = "Shine with your\n"; ObjectID = "EA2-v3-Ns2"; */
+"EA2-v3-Ns2.text" = "Shine with your\n";
+
+/* Class = "UILabel"; text = "INTERESTS"; ObjectID = "Ec4-A5-nSc"; */
+"Ec4-A5-nSc.text" = "INTERESTS";
+
+/* Class = "UILabel"; text = "New password again"; ObjectID = "EjZ-Bu-SU5"; */
+"EjZ-Bu-SU5.text" = "New password again";
+
+/* Class = "UILabel"; text = "Youtube"; ObjectID = "EsU-SJ-fkt"; */
+"EsU-SJ-fkt.text" = "Youtube";
+
+/* Class = "UINavigationItem"; title = "Social networks"; ObjectID = "Eue-NY-UTj"; */
+"Eue-NY-UTj.title" = "Social networks";
+
+/* Class = "UINavigationItem"; title = "Profile picture"; ObjectID = "F1n-9w-ZcC"; */
+"F1n-9w-ZcC.title" = "Profile picture";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "F2Z-NZ-Lze"; */
+"F2Z-NZ-Lze.text" = "20";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "F2l-bL-JIy"; */
+"F2l-bL-JIy.placeholder" = "Instagram";
+
+/* Class = "UITextField"; placeholder = "Blog"; ObjectID = "F3X-io-WkB"; */
+"F3X-io-WkB.placeholder" = "Blog";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "F5M-YQ-wzc"; */
+"F5M-YQ-wzc.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Twitch"; ObjectID = "F8E-eU-oS1"; */
+"F8E-eU-oS1.text" = "Twitch";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "FNb-mU-7j6"; */
+"FNb-mU-7j6.text" = "Completed";
+
+/* Class = "UIButton"; normalTitle = "Remove"; ObjectID = "FVy-ne-AMU"; */
+"FVy-ne-AMU.normalTitle" = "Remove";
+
+/* Class = "UILabel"; text = "What are your\n"; ObjectID = "Fgf-uO-iEg"; */
+"Fgf-uO-iEg.text" = "What are your\n";
+
+/* Class = "UITextField"; placeholder = "Twitch"; ObjectID = "GS2-Gz-TX1"; */
+"GS2-Gz-TX1.placeholder" = "Twitch";
+
+/* Class = "UILabel"; text = "Youtube"; ObjectID = "GSm-A0-rud"; */
+"GSm-A0-rud.text" = "Youtube";
+
+/* Class = "UINavigationItem"; title = "My wallet"; ObjectID = "GqC-LT-9rk"; */
+"GqC-LT-9rk.title" = "My wallet";
+
+/* Class = "UITabBarItem"; title = "Campaings"; ObjectID = "GtK-Ay-pGe"; */
+"GtK-Ay-pGe.title" = "Campaings";
+
+/* Class = "UINavigationItem"; title = "Edit profile"; ObjectID = "Gwf-yi-hkR"; */
+"Gwf-yi-hkR.title" = "Edit profile";
+
+/* Class = "UILabel"; text = "Blog"; ObjectID = "HEl-Mv-BPZ"; */
+"HEl-Mv-BPZ.text" = "Blog";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "HVp-sd-ChC"; */
+"HVp-sd-ChC.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "National"; ObjectID = "I8T-s4-Qul"; */
+"I8T-s4-Qul.text" = "National";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "IFi-mX-dJZ"; */
+"IFi-mX-dJZ.placeholder" = "Code";
+
+/* Class = "UILabel"; text = "Vehicula sit lacus "; ObjectID = "IHK-jg-7Q8"; */
+"IHK-jg-7Q8.text" = "Vehicula sit lacus ";
+
+/* Class = "UILabel"; text = ""; ObjectID = "IYZ-f8-tbL"; */
+"IYZ-f8-tbL.text" = "";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Ix3-xy-2yI"; */
+"Ix3-xy-2yI.title" = "Item";
+
+/* Class = "UILabel"; text = "Pinterest"; ObjectID = "J6Z-nu-GVa"; */
+"J6Z-nu-GVa.text" = "Pinterest";
+
+/* Class = "UILabel"; text = "ACCOUNT"; ObjectID = "JD1-WG-tqx"; */
+"JD1-WG-tqx.text" = "ACCOUNT";
+
+/* Class = "UILabel"; text = "influence."; ObjectID = "JPd-LV-W1F"; */
+"JPd-LV-W1F.text" = "influence.";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "JPs-31-GM2"; */
+"JPs-31-GM2.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "JaB-zy-98x"; */
+"JaB-zy-98x.normalTitle" = "Save";
+
+/* Class = "UINavigationItem"; title = "Campaings"; ObjectID = "K68-R0-TwK"; */
+"K68-R0-TwK.title" = "Campaings";
+
+/* Class = "UILabel"; text = "ACCOUNT"; ObjectID = "Kg2-q4-KSx"; */
+"Kg2-q4-KSx.text" = "ACCOUNT";
+
+/* Class = "UITextField"; placeholder = "Youtube"; ObjectID = "LKK-Pj-ge5"; */
+"LKK-Pj-ge5.placeholder" = "Youtube";
+
+/* Class = "UILabel"; text = "Proin est "; ObjectID = "Lm8-Rd-HhK"; */
+"Lm8-Rd-HhK.text" = "Proin est ";
+
+/* Class = "UILabel"; text = "11"; ObjectID = "Lw3-0x-ync"; */
+"Lw3-0x-ync.text" = "11";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "M6u-uC-9XM"; */
+"M6u-uC-9XM.placeholder" = "Instagram";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "NC3-4i-5b3"; */
+"NC3-4i-5b3.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Children & Family"; ObjectID = "NOL-ef-G8h"; */
+"NOL-ef-G8h.text" = "Children & Family";
+
+/* Class = "UITextField"; placeholder = "Pinterest"; ObjectID = "NQ6-eM-FD7"; */
+"NQ6-eM-FD7.placeholder" = "Pinterest";
+
+/* Class = "UIButton"; normalTitle = "Profile picture"; ObjectID = "Nxv-iO-4cG"; */
+"Nxv-iO-4cG.normalTitle" = "Profile picture";
+
+/* Class = "UIButton"; normalTitle = "Frequently asked questions"; ObjectID = "OlY-Qv-n9E"; */
+"OlY-Qv-n9E.normalTitle" = "Frequently asked questions";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Ovd-97-D6I"; */
+"Ovd-97-D6I.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Payment method"; ObjectID = "Ozg-dM-5Kn"; */
+"Ozg-dM-5Kn.normalTitle" = "Payment method";
+
+/* Class = "UILabel"; text = "04.03.2019"; ObjectID = "PFA-XC-DtE"; */
+"PFA-XC-DtE.text" = "04.03.2019";
+
+/* Class = "UILabel"; text = "Derevlianska St, Kyiv, Ukraine, 02000"; ObjectID = "PIL-hS-jx5"; */
+"PIL-hS-jx5.text" = "Derevlianska St, Kyiv, Ukraine, 02000";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "PK2-VK-HWx"; */
+"PK2-VK-HWx.text" = "Completed";
+
+/* Class = "UILabel"; text = "Fill in your active social media accounts "; ObjectID = "PWg-LT-t3z"; */
+"PWg-LT-t3z.text" = "Fill in your active social media accounts ";
+
+/* Class = "UILabel"; text = ""; ObjectID = "Q02-tN-3N4"; */
+"Q02-tN-3N4.text" = "";
+
+/* Class = "UILabel"; text = "PRICE"; ObjectID = "Q2f-m7-0zO"; */
+"Q2f-m7-0zO.text" = "PRICE";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "QMa-ps-VtE"; */
+"QMa-ps-VtE.title" = "Back";
+
+/* Class = "UILabel"; text = "Share post"; ObjectID = "QcO-JD-c7A"; */
+"QcO-JD-c7A.text" = "Share post";
+
+/* Class = "UIButton"; normalTitle = "Influenzy blog"; ObjectID = "Qiz-U6-yTY"; */
+"Qiz-U6-yTY.normalTitle" = "Influenzy blog";
+
+/* Class = "UILabel"; text = "Twitter"; ObjectID = "Qly-JM-7qp"; */
+"Qly-JM-7qp.text" = "Twitter";
+
+/* Class = "UILabel"; text = "Note: You can only add new active social media "; ObjectID = "R1v-G0-NRQ"; */
+"R1v-G0-NRQ.text" = "Note: You can only add new active social media ";
+
+/* Class = "UIButton"; normalTitle = "Address"; ObjectID = "R7S-oJ-8a5"; */
+"R7S-oJ-8a5.normalTitle" = "Address";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "RJA-28-pRS"; */
+"RJA-28-pRS.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Enter verification"; ObjectID = "RVD-ze-JTJ"; */
+"RVD-ze-JTJ.text" = "Enter verification";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "SQ5-1r-0my"; */
+"SQ5-1r-0my.title" = "Item";
+
+/* Class = "UILabel"; text = "Social networks"; ObjectID = "THU-tz-IVX"; */
+"THU-tz-IVX.text" = "Social networks";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ThI-in-80E"; */
+"ThI-in-80E.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Travel & Tourism"; ObjectID = "Tma-NK-AsE"; */
+"Tma-NK-AsE.text" = "Travel & Tourism";
+
+/* Class = "UIButton"; normalTitle = "Payment history"; ObjectID = "V6h-dU-ihH"; */
+"V6h-dU-ihH.normalTitle" = "Payment history";
+
+/* Class = "UIButton"; normalTitle = "About me"; ObjectID = "VOv-we-mR9"; */
+"VOv-we-mR9.normalTitle" = "About me";
+
+/* Class = "UILabel"; text = "Twitch"; ObjectID = "Voa-ZT-nzv"; */
+"Voa-ZT-nzv.text" = "Twitch";
+
+/* Class = "UILabel"; text = "Choose one or two type(s) of influencer that best\n"; ObjectID = "Vql-E3-RR0"; */
+"Vql-E3-RR0.text" = "Choose one or two type(s) of influencer that best\n";
+
+/* Class = "UILabel"; text = "Instagram"; ObjectID = "VzX-eV-tsf"; */
+"VzX-eV-tsf.text" = "Instagram";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "W3p-Db-kXn"; */
+"W3p-Db-kXn.normalTitle" = "NEXT";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "W9q-Lb-QFz"; */
+"W9q-Lb-QFz.normalTitle" = "NEXT";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "WI2-gK-qyW"; */
+"WI2-gK-qyW.placeholder" = "Facebook";
+
+/* Class = "UILabel"; text = "Entertainment"; ObjectID = "WeX-CX-Jt2"; */
+"WeX-CX-Jt2.text" = "Entertainment";
+
+/* Class = "UINavigationItem"; title = "Campaings"; ObjectID = "WkM-DJ-rUg"; */
+"WkM-DJ-rUg.title" = "Campaings";
+
+/* Class = "UINavigationItem"; title = "Campaings"; ObjectID = "Wl3-G6-sFV"; */
+"Wl3-G6-sFV.title" = "Campaings";
+
+/* Class = "UILabel"; text = "Nike Kiev"; ObjectID = "Wse-85-Kke"; */
+"Wse-85-Kke.text" = "Nike Kiev";
+
+/* Class = "UILabel"; text = "ACTIVE NETWORKS"; ObjectID = "X1p-5P-BwN"; */
+"X1p-5P-BwN.text" = "ACTIVE NETWORKS";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "X7q-Us-Pzy"; */
+"X7q-Us-Pzy.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "XAJ-X0-h5C"; */
+"XAJ-X0-h5C.text" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "XCF-YH-2qV"; */
+"XCF-YH-2qV.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "XDG-Zu-a7z"; */
+"XDG-Zu-a7z.text" = "Completed";
+
+/* Class = "UITextField"; placeholder = "Twitter"; ObjectID = "XXM-5l-Kp3"; */
+"XXM-5l-Kp3.placeholder" = "Twitter";
+
+/* Class = "UILabel"; text = "HASHTAGS"; ObjectID = "Xcd-2K-bdf"; */
+"Xcd-2K-bdf.text" = "HASHTAGS";
+
+/* Class = "UINavigationItem"; title = "Password"; ObjectID = "Xv2-RV-45s"; */
+"Xv2-RV-45s.title" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "Yi5-l5-BNT"; */
+"Yi5-l5-BNT.normalTitle" = "Help";
+
+/* Class = "UILabel"; text = "1500 UAH"; ObjectID = "Z2e-ot-Sq2"; */
+"Z2e-ot-Sq2.text" = "1500 UAH";
+
+/* Class = "UILabel"; text = "ABOUT ME"; ObjectID = "ZDW-eU-N92"; */
+"ZDW-eU-N92.text" = "ABOUT ME";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "ZGB-EB-1s2"; */
+"ZGB-EB-1s2.text" = "Phone number";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "ZKC-KK-LoY"; */
+"ZKC-KK-LoY.title" = "Item";
+
+/* Class = "UILabel"; text = "65"; ObjectID = "Zix-ft-Reb"; */
+"Zix-ft-Reb.text" = "65";
+
+/* Class = "UILabel"; text = "Kelly Hoffman"; ObjectID = "Zyk-1T-QFv"; */
+"Zyk-1T-QFv.text" = "Kelly Hoffman";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "a0J-9R-tby"; */
+"a0J-9R-tby.text" = "100";
+
+/* Class = "UILabel"; text = "Travel&Tourism"; ObjectID = "aYA-Mw-KAm"; */
+"aYA-Mw-KAm.text" = "Travel&Tourism";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "abe-tf-R4a"; */
+"abe-tf-R4a.title" = "Settings";
+
+/* Class = "UILabel"; text = "Kelly Hoffman"; ObjectID = "ak3-4I-tVd"; */
+"ak3-4I-tVd.text" = "Kelly Hoffman";
+
+/* Class = "UINavigationItem"; title = "Campaings"; ObjectID = "bEO-3T-vO6"; */
+"bEO-3T-vO6.title" = "Campaings";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "bax-OD-h4M"; */
+"bax-OD-h4M.text" = "Facebook";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "bsc-Kz-Ezj"; */
+"bsc-Kz-Ezj.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "ciL-CJ-Fb3"; */
+"ciL-CJ-Fb3.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "Cardholder's name"; ObjectID = "ciR-Ae-ZMY"; */
+"ciR-Ae-ZMY.placeholder" = "Cardholder's name";
+
+/* Class = "UILabel"; text = "Accepted"; ObjectID = "dUL-cd-fCO"; */
+"dUL-cd-fCO.text" = "Accepted";
+
+/* Class = "UILabel"; text = "Fashion"; ObjectID = "dUl-hm-D6C"; */
+"dUl-hm-D6C.text" = "Fashion";
+
+/* Class = "UINavigationItem"; title = "Address"; ObjectID = "e4O-sk-Lcq"; */
+"e4O-sk-Lcq.title" = "Address";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "e6b-fe-7vZ"; */
+"e6b-fe-7vZ.title" = "Settings";
+
+/* Class = "UILabel"; text = "profile pic"; ObjectID = "eCu-y2-Utc"; */
+"eCu-y2-Utc.text" = "profile pic";
+
+/* Class = "UITabBarItem"; title = "Campaings"; ObjectID = "eSL-S9-ASA"; */
+"eSL-S9-ASA.title" = "Campaings";
+
+/* Class = "UIButton"; normalTitle = "Payment history"; ObjectID = "euX-Pr-NvK"; */
+"euX-Pr-NvK.normalTitle" = "Payment history";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "fH9-4f-cOm"; */
+"fH9-4f-cOm.normalTitle" = "Cancel";
+
+/* Class = "UITabBarItem"; title = "Campaings"; ObjectID = "fI0-qD-97R"; */
+"fI0-qD-97R.title" = "Campaings";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "ffG-dB-DZ9"; */
+"ffG-dB-DZ9.text" = "Code";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "ftT-zA-Kxp"; */
+"ftT-zA-Kxp.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "fwW-iP-8Vu"; */
+"fwW-iP-8Vu.text" = "Surname";
+
+/* Class = "UILabel"; text = "INTERESTS"; ObjectID = "gMp-An-6wY"; */
+"gMp-An-6wY.text" = "INTERESTS";
+
+/* Class = "UITextField"; placeholder = "Blog"; ObjectID = "gfx-e0-cXE"; */
+"gfx-e0-cXE.placeholder" = "Blog";
+
+/* Class = "UILabel"; text = "Accepted"; ObjectID = "iB1-Iu-iSu"; */
+"iB1-Iu-iSu.text" = "Accepted";
+
+/* Class = "UINavigationItem"; title = "Campaing details"; ObjectID = "iQn-vJ-IkT"; */
+"iQn-vJ-IkT.title" = "Campaing details";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "iTe-X1-mTa"; */
+"iTe-X1-mTa.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "KARINA MOLOTOV"; ObjectID = "j0p-O8-g2X"; */
+"j0p-O8-g2X.text" = "KARINA MOLOTOV";
+
+/* Class = "UITabBarItem"; title = "Wallet"; ObjectID = "jAJ-iL-7ZY"; */
+"jAJ-iL-7ZY.title" = "Wallet";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "jBl-al-hq4"; */
+"jBl-al-hq4.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetuer adipiscing "; ObjectID = "jDJ-ce-ke7"; */
+"jDJ-ce-ke7.text" = "Lorem ipsum dolor sit amet, consectetuer adipiscing ";
+
+/* Class = "UILabel"; text = "11"; ObjectID = "jtN-VU-Tq4"; */
+"jtN-VU-Tq4.text" = "11";
+
+/* Class = "UILabel"; text = "Accepted"; ObjectID = "kHV-3W-X01"; */
+"kHV-3W-X01.text" = "Accepted";
+
+/* Class = "UITextField"; placeholder = "Twitter"; ObjectID = "kLj-cb-lzf"; */
+"kLj-cb-lzf.placeholder" = "Twitter";
+
+/* Class = "UILabel"; text = "Derevlianska St, Kyiv, Ukraine, 02000"; ObjectID = "khH-Tu-M2o"; */
+"khH-Tu-M2o.text" = "Derevlianska St, Kyiv, Ukraine, 02000";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "kj5-gP-baV"; */
+"kj5-gP-baV.placeholder" = "Surname";
+
+/* Class = "UINavigationItem"; title = "About me"; ObjectID = "knL-rS-57I"; */
+"knL-rS-57I.title" = "About me";
+
+/* Class = "UILabel"; text = "My address"; ObjectID = "kuv-uM-1Hx"; */
+"kuv-uM-1Hx.text" = "My address";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "lA2-Jw-049"; */
+"lA2-Jw-049.normalTitle" = "Accept";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "luJ-yt-HQ3"; */
+"luJ-yt-HQ3.placeholder" = "New password";
+
+/* Class = "UINavigationItem"; title = "Campaings"; ObjectID = "mV2-BX-Lyv"; */
+"mV2-BX-Lyv.title" = "Campaings";
+
+/* Class = "UINavigationItem"; title = "Campaings"; ObjectID = "mez-tw-a57"; */
+"mez-tw-a57.title" = "Campaings";
+
+/* Class = "UINavigationItem"; title = "Campaings"; ObjectID = "n8h-dv-nbJ"; */
+"n8h-dv-nbJ.title" = "Campaings";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "nBW-Xo-yi2"; */
+"nBW-Xo-yi2.normalTitle" = "Edit";
+
+/* Class = "UIBarButtonItem"; title = "  "; ObjectID = "nJ4-Ku-S4O"; */
+"nJ4-Ku-S4O.title" = "  ";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "ned-Tx-0yM"; */
+"ned-Tx-0yM.placeholder" = "Facebook";
+
+/* Class = "UILabel"; text = "Receive email notifications"; ObjectID = "o2D-el-kSH"; */
+"o2D-el-kSH.text" = "Receive email notifications";
+
+/* Class = "UILabel"; text = "17/27"; ObjectID = "oo2-7Y-d8w"; */
+"oo2-7Y-d8w.text" = "17/27";
+
+/* Class = "UILabel"; text = "About me"; ObjectID = "p2R-Hz-R1i"; */
+"p2R-Hz-R1i.text" = "About me";
+
+/* Class = "UITextField"; placeholder = "Current password"; ObjectID = "pVV-sJ-Zuc"; */
+"pVV-sJ-Zuc.placeholder" = "Current password";
+
+/* Class = "UILabel"; text = "Password again"; ObjectID = "pWX-II-bCC"; */
+"pWX-II-bCC.text" = "Password again";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "pgm-b1-xVe"; */
+"pgm-b1-xVe.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "qrK-jm-O80"; */
+"qrK-jm-O80.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Instagram"; ObjectID = "qsA-xd-HPm"; */
+"qsA-xd-HPm.text" = "Instagram";
+
+/* Class = "UILabel"; text = "fit your profile."; ObjectID = "s3u-bp-mdv"; */
+"s3u-bp-mdv.text" = "fit your profile.";
+
+/* Class = "UINavigationItem"; title = "Campaings"; ObjectID = "sP3-nj-NHL"; */
+"sP3-nj-NHL.title" = "Campaings";
+
+/* Class = "UINavigationItem"; title = "About me"; ObjectID = "sP7-NT-bqE"; */
+"sP7-NT-bqE.title" = "About me";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "sRh-nh-vXz"; */
+"sRh-nh-vXz.placeholder" = "CVV";
+
+/* Class = "UIButton"; normalTitle = "Payment method"; ObjectID = "tHu-sG-pKA"; */
+"tHu-sG-pKA.normalTitle" = "Payment method";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "tcZ-CP-j1h"; */
+"tcZ-CP-j1h.text" = "3";
+
+/* Class = "UILabel"; text = "Resend code"; ObjectID = "thD-eB-WRJ"; */
+"thD-eB-WRJ.text" = "Resend code";
+
+/* Class = "UILabel"; text = "Restaurants, Food & Grocery"; ObjectID = "u76-9f-rJ1"; */
+"u76-9f-rJ1.text" = "Restaurants, Food & Grocery";
+
+/* Class = "UILabel"; text = "elit, sed diam nonummy nibh."; ObjectID = "u81-Xa-h2c"; */
+"u81-Xa-h2c.text" = "elit, sed diam nonummy nibh.";
+
+/* Class = "UINavigationItem"; title = "Campaings"; ObjectID = "uEn-d9-c8e"; */
+"uEn-d9-c8e.title" = "Campaings";
+
+/* Class = "UILabel"; text = "Card number"; ObjectID = "uij-wE-FGb"; */
+"uij-wE-FGb.text" = "Card number";
+
+/* Class = "UILabel"; text = "with register"; ObjectID = "uoA-Ss-V15"; */
+"uoA-Ss-V15.text" = "with register";
+
+/* Class = "UILabel"; text = "NETWORK"; ObjectID = "uvH-uF-J29"; */
+"uvH-uF-J29.text" = "NETWORK";
+
+/* Class = "UILabel"; text = "Blog"; ObjectID = "v16-gV-R5q"; */
+"v16-gV-R5q.text" = "Blog";
+
+/* Class = "UIButton"; normalTitle = "Social networks"; ObjectID = "vUC-J0-cPJ"; */
+"vUC-J0-cPJ.normalTitle" = "Social networks";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "wXs-2H-lBH"; */
+"wXs-2H-lBH.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Profile picture"; ObjectID = "wnS-Fi-0TE"; */
+"wnS-Fi-0TE.text" = "Profile picture";
+
+/* Class = "UITextField"; placeholder = "MM"; ObjectID = "xIB-qG-TH4"; */
+"xIB-qG-TH4.placeholder" = "MM";
+
+/* Class = "UILabel"; text = "interests?"; ObjectID = "xLN-Sg-xFf"; */
+"xLN-Sg-xFf.text" = "interests?";
+
+/* Class = "UILabel"; text = "Summer Spree Campaign"; ObjectID = "xUZ-4t-s0B"; */
+"xUZ-4t-s0B.text" = "Summer Spree Campaign";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "xnF-IK-obN"; */
+"xnF-IK-obN.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "xtZ-jp-AFi"; */
+"xtZ-jp-AFi.normalTitle" = "REGISTER";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetuer adipiscing "; ObjectID = "xvd-R6-Nl3"; */
+"xvd-R6-Nl3.text" = "Lorem ipsum dolor sit amet, consectetuer adipiscing ";
+
+/* Class = "UILabel"; text = "83"; ObjectID = "y96-5w-PUz"; */
+"y96-5w-PUz.text" = "83";
+
+/* Class = "UILabel"; text = "Invited"; ObjectID = "y9b-5p-wyi"; */
+"y9b-5p-wyi.text" = "Invited";
+
+/* Class = "UILabel"; text = "04.02.2019"; ObjectID = "yHd-q7-tvK"; */
+"yHd-q7-tvK.text" = "04.02.2019";
+
+/* Class = "UILabel"; text = ""; ObjectID = "yi5-w3-Q1e"; */
+"yi5-w3-Q1e.text" = "";
+
+/* Class = "UILabel"; text = "accounts."; ObjectID = "ykU-ZY-D9d"; */
+"ykU-ZY-D9d.text" = "accounts.";
+
+/* Class = "UITabBarItem"; title = "Notifications"; ObjectID = "yxm-bV-fNj"; */
+"yxm-bV-fNj.title" = "Notifications";
+
+/* Class = "UITabBarItem"; title = "Wallet"; ObjectID = "z0H-vM-HPT"; */
+"z0H-vM-HPT.title" = "Wallet";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "zJ1-5d-ASl"; */
+"zJ1-5d-ASl.title" = "Profile";
+
+/* Class = "UILabel"; text = "SUPPORT"; ObjectID = "zSo-WI-g8m"; */
+"zSo-WI-g8m.text" = "SUPPORT";
+
+/* Class = "UILabel"; text = "11"; ObjectID = "zZM-FT-2i0"; */
+"zZM-FT-2i0.text" = "11";
+
+/* Class = "UILabel"; text = "Invited"; ObjectID = "zoi-xC-EJ9"; */
+"zoi-xC-EJ9.text" = "Invited";
